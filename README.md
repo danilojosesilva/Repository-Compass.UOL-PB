@@ -1,4 +1,4 @@
-[](./assets/CompassUOL-logo.png)
+[Logo Compass UOL](./assets/CompassUOL-logo.png)
 
 # Repository-CompassUOL-PB
 
