@@ -36,7 +36,7 @@
     * Ler livros e notícias.
     * Entretenimento: Filmes, séries e beber com os amigos.
 
-# Conteúdo Programático concluído:
+# 🛠 Conteúdo Programático concluído:
 
 ## 1. Cultura Ágil e Segurança:
 
