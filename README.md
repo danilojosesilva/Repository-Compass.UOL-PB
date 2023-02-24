@@ -1,15 +1,20 @@
 <p align="center"><img src="./assets/Compass.UOL-logo.png"></p>
 
 <p align = "center">
-    <img src = "https://img.shields.io/badge/Repository-Compass.Uol.PB-red" alt= "Site">
+    <img src = "https://img.shields.io/badge/Repository-Compass.Uol_PB-red" alt= "Site">
     <img src = "https://img.shields.io/badge/Made%20by-Danilo%20José%20Silva-orange" alt = "Danilo José Silva">
-    <img src = "https://img.shields.io/badge/Project%20Lang-Portugueses%20BR-green" alt = "Project Lang">
+    <img src = "https://img.shields.io/badge/Project%20Lang-Portugueses%20BR-yellow" alt = "Project Lang">
+</p>
 
 # **Programa de Bolsas - Data & Analytics - Compass.UOL**
 
 ## **Apresentação do Desenvolvedor**:
 
-* ### Danilo José Silva
+<br></br>
+<p align="center"><img style="width: 250px; height: 250px; border-radius: 50%; margin-bottom: 25px" src="./assets/Profile.jpg"></p>
+
+<h2 align="center"><b>Danilo José Silva</b></h2>
+
     * 36 anos
     * Endereço: Rua Esméria Cândida, 497, Centro, Guaxupé/MG, CEP 37800-000
     * Telefone: (35) 99945-1461
@@ -39,7 +44,11 @@
 
 #### **Segurança em Aplicações WEB:**
 
-- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> 
+- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Nesta seção foi definido o objetivo do curso: segurança em aplicações WEB, bem como sobre as principais vulnerabilidades. Ainda, foi configurado o laboratório de estudos (Máquina Linux Hacker e Máquina Linux Servidor Web), as duas máquina configuradas no Virtual Box.
+<br></br>
+<img align="center" src="./assets/Seção1-Segurança.png">
+<br></br>
+<img align="center" src="./assets/VirtualBox.png">
 </p>
 </details>
 
