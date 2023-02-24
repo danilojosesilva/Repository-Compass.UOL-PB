@@ -45,10 +45,8 @@
 #### **Segurança em Aplicações WEB:**
 
 - [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Nesta seção foi definido o objetivo do curso: segurança em aplicações WEB, bem como sobre as principais vulnerabilidades. Ainda, foi configurado o laboratório de estudos (Máquina Linux Hacker e Máquina Linux Servidor Web), as duas máquina configuradas no Virtual Box.
-<br></br>
-<img align="center" src="./assets/Seção1-Segurança.png">
-<br></br>
-<img align="center" src="./assets/VirtualBox.png">
+<img src="./assets/Seção1-Segurança.png">
+<img src="./assets/VirtualBox.png">
 </p>
 </details>
 
