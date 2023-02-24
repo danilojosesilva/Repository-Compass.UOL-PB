@@ -64,7 +64,7 @@
 
 #### **Git e GitHub do básico ao avançado (c/ gist e GitHub Pages):**
 
-- [x] Seção 1: Introdução e instalação das dependências <details><summary>Descrição:</summary> <p> Nessa primeira seção foram abordados os primeiros passos para aprendizado de Git, com a instalação das aplicações (Git, VSCode), abordagem sobre os objetivos do Git (Sistema de Controle de Versão, baseado em repositórios, mais utilizado no mundo). <img src="./assets/Seção1-Git.png"> <img src="./assets/GitVersion.png"> <img src="./assets/GitConfig.png">
+- [x] Seção 1: Introdução e instalação das dependências <details><summary>Descrição:</summary> <p> Nessa primeira seção foram abordados os primeiros passos para aprendizado de Git, com a instalação das aplicações (Git, VSCode), abordagem sobre os objetivos do Git (Sistema de Controle de Versão, baseado em repositórios, mais utilizado no mundo). <p align="center"><img src="./assets/Seção1-Git.png"></p> <img src="./assets/GitVersion.png"> <img src="./assets/GitConfig.png">
 </p>
 </details>
 
