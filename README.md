@@ -1,5 +1,6 @@
-![](./assets/CompassUOL-logo.png)
+![](./assets/Compass.UOL-logo.png)
 
-# Repository-CompassUOL-PB
+# Repository-Compass.UOL-PB
 
 Repositório do programa de bolsas - Data & Analytics - realizado na Compass UOL.
+
