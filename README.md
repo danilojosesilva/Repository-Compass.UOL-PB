@@ -42,21 +42,21 @@
 
 #### **Segurança em Aplicações WEB:**
 
-- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Nesta seção foi definido o objetivo do curso: segurança em aplicações WEB, bem como sobre as principais vulnerabilidades. Ainda, foi configurado o laboratório de estudos (Máquina Linux Hacker e Máquina Linux Servidor Web), as duas máquina configuradas no Virtual Box. <img src="./assets/Seção1-Segurança.png"> <img src="./assets/VirtualBox.png">
+- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Nesta seção foi definido o objetivo do curso: segurança em aplicações WEB, bem como sobre as principais vulnerabilidades. Ainda, foi configurado o laboratório de estudos (Máquina Linux Hacker e Máquina Linux Servidor Web), as duas máquina configuradas no Virtual Box. <p align="center"><img src="./assets/Seção1-Segurança.png"></p> <p align="center"><img src="./assets/VirtualBox.png"></p>
 </p>
 </details>
 
-- [x] Seção 2: Princípios da Segurança, Testes de Vulnerabilidades, Ferramentas e Documentação <details><summary>Descrição:</summary> <p> Na seção 2 foram abordados os princípios da segurança da informação (Autenticidade, Confidencialidade, Disponibilidade, Integridade), tipos de análises de vulnerabilidade (black box, white box, gray box), arquitetura de aplicações WEB, projeto OWASP (lista de principais vulnerabilidades para WEB) e ferramentas (OWASP BWA, OWASP ZAP). <img src="./assets/Seção2-Segurança.png">
+- [x] Seção 2: Princípios da Segurança, Testes de Vulnerabilidades, Ferramentas e Documentação <details><summary>Descrição:</summary> <p> Na seção 2 foram abordados os princípios da segurança da informação (Autenticidade, Confidencialidade, Disponibilidade, Integridade), tipos de análises de vulnerabilidade (black box, white box, gray box), arquitetura de aplicações WEB, projeto OWASP (lista de principais vulnerabilidades para WEB) e ferramentas (OWASP BWA, OWASP ZAP). <p align="center"><img src="./assets/Seção2-Segurança.png"></p>
 </p>
 </details>
 
 #### **Gestão Ágil com Scrum, Kanban & Nexus: O Guia Definitivo:**
 
-- [x] Seção 1: Mindset Ágil <details><summary>Descrição:</summary> <p> Nesta seção foram abordados a introdução ao mindset ágil (histórico e pontos inciais), definição de projeto, diferenças entre o modelo ágil e o modelo cascata, bem como os prós e contras de cada metodologia, os valores e princípios ágeis (manifesto ágil), a aplicação da metodologia ágil em projetos com escopo volátil ou complexos (cone da incerteza), planejamento em camadas "cebola" (metodologia ágil). <img src="./assets/Seção1-GestaoAgil.png"> 
+- [x] Seção 1: Mindset Ágil <details><summary>Descrição:</summary> <p> Nesta seção foram abordados a introdução ao mindset ágil (histórico e pontos inciais), definição de projeto, diferenças entre o modelo ágil e o modelo cascata, bem como os prós e contras de cada metodologia, os valores e princípios ágeis (manifesto ágil), a aplicação da metodologia ágil em projetos com escopo volátil ou complexos (cone da incerteza), planejamento em camadas "cebola" (metodologia ágil). <p align="center"><img src="./assets/Seção1-GestaoAgil.png"></p>
 </p>
 </details>
 
-- [x] Seção 2: SCRUM - Teoria do SCRUM <details><summary>Descrição:</summary> <p> Na seção do framework SCRUM foram abordados sobre: a história do SCRUM (Analogia ao Hugby); que o SCRUM se baseaia no Empirismo (Experiência Prática Cotidiana); que no SCRUM não fixa-se o escopo de produto, nem o processos de como contruí-lo, sendo criado uma pequena parte utilizável do produto, em ciclos curtos, com criação de macanismos de inspeção (transparência, adaptação, inspeção); os valores do SCRUM (coragem, comprometimento, foco, respeito, abertura); ciclo SCRUM (roadmap); autogerenciamento (equipes autogerenciáveis). <img src="./assets/Seção2-GestaoAgil.png">
+- [x] Seção 2: SCRUM - Teoria do SCRUM <details><summary>Descrição:</summary> <p> Na seção do framework SCRUM foram abordados sobre: a história do SCRUM (Analogia ao Hugby); que o SCRUM se baseaia no Empirismo (Experiência Prática Cotidiana); que no SCRUM não fixa-se o escopo de produto, nem o processos de como contruí-lo, sendo criado uma pequena parte utilizável do produto, em ciclos curtos, com criação de macanismos de inspeção (transparência, adaptação, inspeção); os valores do SCRUM (coragem, comprometimento, foco, respeito, abertura); ciclo SCRUM (roadmap); autogerenciamento (equipes autogerenciáveis). <p align="center"><img src="./assets/Seção2-GestaoAgil.png"></p>
 </p>
 </details>
 
@@ -64,7 +64,7 @@
 
 #### **Git e GitHub do básico ao avançado (c/ gist e GitHub Pages):**
 
-- [x] Seção 1: Introdução e instalação das dependências <details><summary>Descrição:</summary> <p> Nessa primeira seção foram abordados os primeiros passos para aprendizado de Git, com a instalação das aplicações (Git, VSCode), abordagem sobre os objetivos do Git (Sistema de Controle de Versão, baseado em repositórios, mais utilizado no mundo). <p align="center"><img src="./assets/Seção1-Git.png"></p> <img src="./assets/GitVersion.png"> <img src="./assets/GitConfig.png">
+- [x] Seção 1: Introdução e instalação das dependências <details><summary>Descrição:</summary> <p> Nessa primeira seção foram abordados os primeiros passos para aprendizado de Git, com a instalação das aplicações (Git, VSCode), abordagem sobre os objetivos do Git (Sistema de Controle de Versão, baseado em repositórios, mais utilizado no mundo). <p align="center"><img src="./assets/Seção1-Git.png"></p> <p align="center"><img src="./assets/GitVersion.png"></p> <p align="center"><img src="./assets/GitConfig.png"></p>
 </p>
 </details>
 
