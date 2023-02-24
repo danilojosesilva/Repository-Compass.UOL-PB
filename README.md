@@ -8,7 +8,7 @@
 
 # **Programa de Bolsas - Data & Analytics - Compass.UOL**
 
-## **Apresentação do Desenvolvedor**:
+## 📺 **Apresentação do Desenvolvedor**:
 
 <p align="center"><img style="width: 350px; height: 350px" src="./assets/Profile.jpg"></p>
 
@@ -36,8 +36,7 @@
     * Ler livros e notícias.
     * Entretenimento: Filmes, séries e beber com os amigos.
 
-<br></br>
-# 📺 Conteúdo Programático concluído:
+# Conteúdo Programático concluído:
 
 ## 1. Cultura Ágil e Segurança:
 
