@@ -10,7 +10,7 @@
 
 ## **Apresentação do Desenvolvedor**:
 
-<p align="center"><img style="width: 250px; height: 250px; border-radius: 50%; margin-bottom: 25px" src="./assets/Profile.jpg"></p>
+<p align="center"><img src="./assets/Profile.jpg"></p>
 
 <h2 align="center"><b>Danilo José Silva</b></h2>
 
