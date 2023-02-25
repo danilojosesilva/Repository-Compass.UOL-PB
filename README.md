@@ -3,7 +3,7 @@
 <p align = "center">
     <img src = "https://img.shields.io/badge/Repository-Compass.Uol_PB-red" alt= "Site">
     <img src = "https://img.shields.io/badge/Made%20by-Danilo%20José%20Silva-orange" alt = "Danilo José Silva">
-    <img src = "https://img.shields.io/badge/Project%20Lang-Portugueses%20BR-yellow" alt = "Project Lang">
+    <img src = "https://img.shields.io/badge/Project%20Lang-Portuguese%20BR-yellow" alt = "Project Lang">
 </p>
 
 # **Programa de Bolsas - Data & Analytics - Compass.UOL**
@@ -68,43 +68,43 @@
 </p>
 </details>
 
-- [x] Seção 2: Git fundamental <details><summary>Descrição:</summary> <p> 
+- [x] Seção 2: Git fundamental <details><summary>Descrição:</summary> <p> Nessa seção foram abordados os pontos fundamentais de Git e GitHub: criação de repositório público e privado (novo repositório na conta do GitHub), clone de repositório na máquina por meio do terminal bash (git clone < nome do repositório >), adição de arquivos no projeto (git add e git commit), verificar arquivos alterados a serem adicionados e comitados (git status), envio de arquivos para repositório (git push origin < branch >, para primeiro envio ou git push, para demais envios), recebimento de alterações (git pull), remoção de arquivos (git rm < nome do arquivo >), verificar alterações por meio de log (git log), mover ou renomear arquivos (git mv), desfazer alterações voltando ao estado do repositório (git checkout < arquivo >), ignorar arquivos e diretórios em um projeto (.gitignore), resetar branch (git reset ou com flag --hard). <p align="center"><img src="./assets/Seção2-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 3: Trabalhando com branches <details><summary>Descrição:</summary> <p> 
+- [x] Seção 3: Trabalhando com branches <details><summary>Descrição:</summary> <p> Na seção três foi abordado o trabalho com branches (forma que o git separa as versões dos projetos, ramificação do projeto). O tópico abordou: criação de branchs (git branch < nome >), visualização de branchs (git branch), exclusão de branchs (git branch -d < nome > ou git branch --delete < nome >), mudança de branch (git checkout < nome>), mudança de branch + criação de nova branch (git checkout -b < nome >), união de branchs (git merge < nome >), utilização e recuperação de stash para salvar código e recuperar posteriormente (git stash / git stash list / git stash < nome >), remoção da stash (git stash clear), remoção de stash específica (git stash drop < nome >), criação de tags - checkpoint das branchs (git tag -a < nome > -m "< msg >"), verificação de tags (git show < nome >), alteração entre tags (git checkout < nome >), envio de tags (git push origin < nome > / git push origin --tags). <p align="center"><img src="./assets/Seção3-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 4: Compartilhamento e atualização de repositórios <details><summary>Descrição:</summary> <p> 
+- [x] Seção 4: Compartilhamento e atualização de repositórios <details><summary>Descrição:</summary> <p> Nessa seção foram abordados o compartilhamento e atualização de repositórios: encontrar branchs no repositório (git fetch), receber alterações do repositório remoto (git pull), enviar alterações para o repositório (git push), utilizar o remote para adicionar repo para trackear ou remover (git remote), adicionar repo remoto ao git (git remote add origin < link >), trabalhar com submódulos, ou seja, dois ou mais projetos em um só repositório (git submodule add < repo > para criação) e (git submodule para verificar os submodulos existentes), atualizar submodulos com commit e para envio para o repo utiliza-se (git push --recurse-submodules=on-demand). <p align="center"><img src="./assets/Seção4-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 5: Análise e inspeção de repositórios <details><summary>Descrição:</summary> <p> 
+- [x] Seção 5: Análise e inspeção de repositórios <details><summary>Descrição:</summary> <p> Na seção foram abordadas a análise e inspeção de repositórios: exibir informações úteis quanto ao banch atual e seus commits e modificações de arquivos entre cada commit (git show), exibir informações de tags (git show < tag >), exibir diferenças entre branchs (git diff < arquivo >< arquivo_b >), log resumido do projeto (git shortlog). <p align="center"><img src="./assets/Seção5-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 6: Administração de repositórios <details><summary>Descrição:</summary> <p> 
+- [x] Seção 6: Administração de repositórios <details><summary>Descrição:</summary> <p> A seção seis abordou sobre administração de repositório, com comandos para sua otimização: limpar arquivos untracked (git clean), otimizar o repositório - garbage collector - limpeza de arquivos desnecessários (git gc), checar integridade de arquivos - verificar possíveis corrupções em arquivos (git fsck), mapear todos os passos no repositório - mais completo que o "git log" (git reflog) - tempo de expiração padrão de 30 dias, transformar o repo para arquivo (git archive --format zip --output main_files.zip main). <p align="center"><img src="./assets/Seção6-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 7: Melhorando os commits do projeto <details><summary>Descrição:</summary> <p> 
+- [x] Seção 7: Melhorando os commits do projeto <details><summary>Descrição:</summary> <p> Nessa seção foi abordada a importância dos commits e a necessidade de evitar commits sem sentido, exercitando uma padronização de commits. Ainda, foi abordado a solução chamada private branches, ou seja, criação de uma branch privada para trabalho e exportação apenas da funcionalidade pronta, evitando o excesso de commits, bem como commits sem sentido (git rebase < atual >< funcionalidade > -i) ("squash" para excluir commits e "reword" para renomear). Por fim, foi abordado sobre boas mensagens para commit (separar assunto do corpo da mensagem, assunto com no máximo 50 caracteres, assunto com letra inicial maiúscula, corpo com no máximo 72 caracteres, explicar o por que e como do commit, e não como o código foi escrito). <p align="center"><img src="./assets/Seção7-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 8: Explorando e entendendo o GitHub <details><summary>Descrição:</summary> <p> 
+- [x] Seção 8: Explorando e entendendo o GitHub <details><summary>Descrição:</summary> <p> Nesta seção foi abordado o GitHub em detalhes: criação de repositório, verificação de código fonte, aba Code, mudança de branch, commit, tags, licenças do projeto (licença MIT, entre outras), README (descrição do projeto), aba Issue (criar tarefas ou possíveis bugs do projeto), aba Pull Request (onde colaboradores do projeto enviam código para resolver as issues ou adicionar novas funcionalidades ao projeto) - prática para que o código e suas alterações não sejam inseridas diretamente na branch "main" e sim passe por uma análise prévia (pull request vem de um novo branch criado no projeto e enviado para o repo, com incremento de código), aba Actions (criação de automatizações de deploy com integração em outros serviços - incluindo CI/CD (Continuos Integration / Continuous Development)), aba Projects (criação de um projeto e utilização de um quadro de tarefas, processo conhecido como Kanban(tela semelhante ao software Trello)), aba Wiki (criação de documentação mais extensa do projeto), aba Insights (informações detalhadas do projeto), aba Settings (acesso a configurações do projeto como mudança de nome, remoção/adição de features, adição de colaboradores, remoção de repositório), criação de Gist (pequenos blocos de códigos que podem ser hospedados no GitHub), encontrar repositórios interessantes (aprender com repositórios de desenvolvedores experiente, bem como dar fork em projetos disponíveis). <p align="center"><img src="./assets/Seção8-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 9: Markdown do básico ao avançado <details><summary>Descrição:</summary> <p> 
+- [x] Seção 9: Markdown do básico ao avançado <details><summary>Descrição:</summary> <p> Nessa seção foi abordado sobre Markdown (forma de adiconar estilos a textos WEB): títulos (# a ######), negrito (__ __ ou ** **), itálico (_ _ ou * *), Listas (numeradas ou não-numeradas( * )), adição de imagens, adição de links, task list ([ x ] ou [ ]). <p align="center"><img src="./assets/Seção9-Git.png"></p> <p align="center"><img src="./assets/Markdown1.png"></p> <p align="center"><img src="./assets/Markdown2.png"></p>
 </p>
 </details>
 
-- [x] Seção 10: Projeto: Portfólio com GitHub Pages <details><summary>Descrição:</summary> <p> 
+- [x] Seção 10: Projeto: Portfólio com GitHub Pages <details><summary>Descrição:</summary> <p> Nesta seção foi feita orientação passo a passo para criação de Portfólio no GitHub Pages, portfólio construído de forma responsiva em HTML e CSS. [Portfólio](https://danilojosesilva.github.io/). <p align="center"><img src="./assets/Seção10-Git.png"></p>
 </p>
 </details>
 
-- [x] Seção 11: Encerramento e próximos passos <details><summary>Descrição:</summary> <p> 
+- [x] Seção 11: Encerramento e próximos passos <details><summary>Descrição:</summary> <p> Conclusão e abordagem rápida de tudo que foi disponibilizado no curso. <p align="center"><img src="./assets/Seção11-Git.png"></p>
 </p>
 </details>
 
