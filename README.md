@@ -198,7 +198,6 @@
 
 ### 12. Conteúdo Complementar:
 
-<br></br>
 <p align = "center">
 Feito com ❤️ por Danilo José Silva! Entre em <a href="https://www.linkedin.com/in/danilojosesilva/">contato</a> !
 </p>
