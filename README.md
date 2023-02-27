@@ -88,7 +88,7 @@
 </p>
 </details>
 
-- [x] Seção 7: Melhorando os commits do projeto <details><summary>Descrição:</summary> <p> Nessa seção foi abordada a importância dos commits e a necessidade de evitar commits sem sentido, exercitando uma padronização de commits. Ainda, foi abordado a solução chamada private branches, ou seja, criação de uma branch privada para trabalho e exportação apenas da funcionalidade pronta, evitando o excesso de commits, bem como commits sem sentido (git rebase < atual >< funcionalidade > -i) ("squash" para excluir commits e "reword" para renomear). Por fim, foi abordado sobre boas mensagens para commit (separar assunto do corpo da mensagem, assunto com no máximo 50 caracteres, assunto com letra inicial maiúscula, corpo com no máximo 72 caracteres, explicar o por que e como do commit, e não como o código foi escrito). <p align="center"><img src="./assets/Seção7-Git.png"></p>
+- [x] Seção 7: Melhorando os commits do projeto <details><summary>Descrição:</summary> <p> Nessa seção foi abordada a importância dos commits e a necessidade de evitar commits sem sentido, exercitando uma padronização de commits. Ainda, foi abordado a solução chamada private branches, ou seja, criação de uma branch privada para trabalho e exportação apenas da funcionalidade pronta, evitando o excesso de commits, bem como commits sem sentido (git rebase < atual >< funcionalidade > -i) ("squash" para excluir commits e "reword" para renomear). Por fim, foi abordado sobre boas mensagens para commit (separar assunto do corpo da mensagem, assunto com no máximo 50 caracteres, assunto com letra inicial maiúscula, corpo com no máximo 72 caracteres, explicar o por que e como do commit, e não como o código foi escrito). <p align="center"><img src="./assets/Seção7-Git.png"></p> <p align="center"><img src="./assets/Compartilhamento-RepositoryGit.png"></p>
 </p>
 </details>
 
@@ -110,71 +110,71 @@
 
 #### **Administração de Sistemas GNU/Linux: Fundamentos e Prática:**
 
-- [x] Seção 1: Introdução e objetivos do curso <details><summary>Descrição:</summary> <p> 
+- [x] Seção 1: Introdução e objetivos do curso <details><summary>Descrição:</summary> <p> Na primeira seção foram apresentados introdução, objetivos do curso, requisitos pessoais e técnicos, tópicos do curso e explicitada a contribuição do curso para a certificação LPIC-1. <p align="center"><img src="./assets/Seção1-GNU-Linux.png"></p>
 </p>
 </details>
 
-- [x] Seção 2: Preparando o laboratório para praticar <details><summary>Descrição:</summary> <p> 
+- [x] Seção 2: Preparando o laboratório para praticar <details><summary>Descrição:</summary> <p> Essa seção foi direcionado para a montagem do laboratório linux para o curso (máquinas virtuais Cent-OS e Debian no Virtual Box, bem como utilização de clones das máquinas para utilização no curso). <p align="center"><img src="./assets/Seção2-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção2-GNU-Linux1.png"></p>
 </p>
 </details>
 
-- [x] Seção 3: Tópico 0: Se for a primeira vez com GNU/Linux, assista estes vídeos <details><summary>Descrição:</summary> <p> 
+- [x] Seção 3: Tópico 0: Se for a primeira vez com GNU/Linux, assista estes vídeos <details><summary>Descrição:</summary> <p> Essa seção foi direcionada para os iniciantes no sistema GNU/Linux, na qual foram abordados os primeiros passos como login - quando digita a senha não aparece nada por questão de segurança (root - superusuário (#) / usuário comum ($)), comandos básicos (su - para alternar para root, sudo - apenas um comando como root, "clear" ou CTRL L para limpar a tela, setas para cima ou para baixo ou comando "history" retorna o histórico comandos utilizados, shift + PgUP ou shift + PgDn para subir e descer como scroll do mouse, comando "loadkeys br-abnt2" para trabalhar com teclado em português do brasil, "ls" para listar arquivos e diretórios, tecla TAB para autocompletar comandos, estrutura de diretórios do linux com comando "cd"). <p align="center"><img src="./assets/Seção3-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção3-GNU-Linux1.png"></p> <p align="center"><img src="./assets/Seção3-GNU-Linux2.png"></p> <p align="center"><img src="./assets/Seção3-GNU-Linux3.png"></p> <p align="center"><img src="./assets/Seção3-GNU-Linux4.png"></p>
 </p>
 </details>
 
-- [x] Seção 4: Tópico 1: Introdução ao Sistema operacional GNU/Linux <details><summary>Descrição:</summary> <p> 
+- [x] Seção 4: Tópico 1: Introdução ao Sistema operacional GNU/Linux <details><summary>Descrição:</summary> <p> Nessa seção foram abordados o conceito e a evolução histórica do GNU/Linux: GNU/Linux (Sistema Operacional Livre), Linux é o Kernel e o GNU é o sistema operacional, principais sistemas operacionais livres (GNU/Linux, Android, FreeBSD, Minix, FreeDOS, Haiku), em 1991 foi desenvolvido o Kernel Linux e incorporado a estrutura GNU em 1992, GNU/Linux é licenciado pela GPL (General Public License), Shell Interpretador de Comandos do Linux (SH, CSH, Bash), o Kernel é mais próximo ao hardware (escrito com linguagem C e algumas partes em Assembly) e pode ser modificado por qualquer pessoa (adição de recursos pu correção de vulnerabilidades), o Shell é mais próximo ao usuário, o GNU/Linux possui diversas distribuições (mais de 900 distribuições catalogadas), pontos relevantes para escolha da distribuição (Possui desenvolvimento contínuo?, Existe desde quando? Existirá por mais alguns anos?, Possui grande abrangência (muitos utilizadores, listas de discussão, popularidade)?), principais distribuições (debian e derivações, slackware e derivações, redhat e derivações), o Linux permite alternar por 8 sessões (6 em modo texto (ALT + F1 ao F6 do teclado), 2 sessões em modo gráfico - quando instalado durante formatação (ALT + F7/F8 do teclado) - tty 1 a tty8). <p align="center"><img src="./assets/Seção4-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção4-GNU-Linux1.png"></p>
 </p>
 </details>
 
-- [x] Seção 5: Tópico 2: Introdução ao Shell e comandos básicos <details><summary>Descrição:</summary> <p> 
+- [x] Seção 5: Tópico 2: Introdução ao Shell e comandos básicos <details><summary>Descrição:</summary> <p> Nessa seção foram abordados a introdução ao Shell (Bash) e comandos básicos (comando para administração do sistema GNU/Linux): "~" representa o diretório pessoal, "pwd" mostra o diretório que se encontra no momento, os comandos do Shell são "Case sensitive" (diferenciam letras minúsculas de maiúsculas), sintaxe de execução (comando -opções argumentos), dicas do modo texto, comando para desligar a máquina linux ("init 0", "shutdown -h now", poweroff), diretórios importantes (/, /boot, /etc, /bin, /var, /home, entre outros), comandos de orientação e ajuda ("man ls", "ls --help", date --help", "info ls", "cal", "date", "clear"), comandos de navegação ("ls", "cd", "pwd"), voltar para um nível de diretório acima ("cd .."), voltar para diretório anterior ("cd -"), "ls -l" - comando que lista os diretórios detalhados (descrição do objeto, permissões de acesso, inodes, proprietário, grupo proprietário, tamanho do objeto, data de criação e nome do objeto), parámetro "h" - "ls -lh" (para que as informações fiquem humanamente legíveis), criar um novo diretório ("mkdir [ nome do diretório ]"), apagar diretório vazio ("rmdir [ nome do diretório ]"), apagar arquivo ("rm [ arquivo ]"), apagar diretório com arquivos ("rm -r [ diretoório ]" ou forçado - "rm -rf [ diretório ]"), monstrar estrutura de diretórios em formato de árvore ("tree"), apagar todos os arquivos que estão dentro do diretório ("rm -rf *"), mover ou renomear arquivos ("mv"), copiar arquivos e diretórios ("cp" ou com parâmetros -a / -r), criar arquivos de texto puro ("touch"), encontrar arquivos ("find"), descrição de espaço utilizado por cada item ("du", "du -h", "du -hs"), criar link simbólico ("ln"). <p align="center"><img src="./assets/Seção5-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux1.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux2.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux3.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux4.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux5.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux6.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux7.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux8.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux9.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux10.png"></p> <p align="center"><img src="./assets/Seção5-GNU-Linux11.png"></p>
 </p>
 </details>
 
-- [x] Seção 6: Tópico 3: Manipulação de conteúdos com comandos Shell <details><summary>Descrição:</summary> <p> 
+- [x] Seção 6: Tópico 3: Manipulação de conteúdos com comandos Shell <details><summary>Descrição:</summary> <p> Nessa seção foi abordada a manipulação de conteúdo com comandos Shell: exibe na saída padrão (tela) o contéudo de um arquivo ("cat"), exibir conteúdo em mais seções ("more", "less"), exibir 10 primeiras linhas ("head"), exibir 10 últimas linhas ("tail") - é possível ver informações de log em tempo real,  descritores (stdin, stdout, stderr), redirecionador de envio ">" (sobrecreve), redirecionador de envio ">>" (adiciona ao final), redirecionador de recebimento "<" (sobrescreve), redirecionador de recebimento "<<" (adiciona ao final), redirecionadores de erro "2>" e "2>>", "/dev/null" - bit bucket / lugar nenhum / buraco negro do linux, concatenação de comandos "pipe" ("|") - pegar a saída de um comando e utilizar como entrada para o comando seguinte, conectores de comando (";" - comandos em sequência, "&&" - AND, "||" - OR), filtros de comando ("grep", "wc", "tr", "sed", "diff", "sort", "cut, "awk"), compactadores ("zip" / "unzip", "tar" (sintaxes - "tar": "-c", "-x", "-t", "-v", "-p", "-r", "-z", "-Z", "-j", "-f")). <p align="center"><img src="./assets/Seção6-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção6-GNU-Linux1.png"></p> <p align="center"><img src="./assets/Seção6-GNU-Linux2.png"></p> <p align="center"><img src="./assets/Seção6-GNU-Linux3.png"></p> <p align="center"><img src="./assets/Seção6-GNU-Linux4.png"></p> <p align="center"><img src="./assets/Seção6-GNU-Linux5.png"></p>
 </p>
 </details>
 
-- [x] Seção 7: Tópico 4: Comandos para gerenciamento do sistema e do Hardware <details><summary>Descrição:</summary> <p> 
+- [x] Seção 7: Tópico 4: Comandos para gerenciamento do sistema e do Hardware <details><summary>Descrição:</summary> <p> Nessa seção foram abordados os comandos para gerenciamento do sistema de do hardware: exibir informações sobre o sistema instalado e da versão do Kernel ("uname"), exibir informações do sistema ("uptime"), exibir informações sobre a utilização da memória RAM e SWAP ("free"), exibir informações sobre o espaço livre/utilizado em disco ("df"), exibir tamanho de arquivos ou diretórios ("du"), exibir o tipo de determinado arquivo ("file < nome do arquivo >"), informações de acessos - Logons ("w", "who", "whoami"), configurações de rede (IP estático/fixo, IP manual, IP através do cliente DHCP) - "dhclient" ou "dhclient < interface >", "ifdown"/"ifup" para desabilitar ou habilitar, verificar ou configurar IP ("ifconfig"), vizualizar e modificar rotas ou "Default Gateway" ("route"), informações de rede ("ip address", "ip addr list", "ip addr"), exibir todo hardware reconhecido/carregado pelo Kernel durante a inicialização ("dmesg"), exibir informações do chipset e dispositivos PCI ("lspci"), exibir informações de dispositivos USB conectados ("lsusb"), exibir drivers carregados no sistema ("lsmod"), instalar/carregar novo módulo de Kernel ("insmod"), remover um módulo - driver ("rmmod"), /proc (diretório virtual do sistema Linux, através do qual é possível obter informações do processador e de dispositivos conectados). <p align="center"><img src="./assets/Seção7-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção7-GNU-Linux1.png"></p> <p align="center"><img src="./assets/Seção7-GNU-Linux2.png"></p> <p align="center"><img src="./assets/Seção7-GNU-Linux3.png"></p> <p align="center"><img src="./assets/Seção7-GNU-Linux4.png"></p> <p align="center"><img src="./assets/Seção7-GNU-Linux5.png"></p>
 </p>
 </details>
 
-- [x] Seção 8: Tópico 5: Editor de Texto VI <details><summary>Descrição:</summary> <p> 
+- [x] Seção 8: Tópico 5: Editor de Texto VI <details><summary>Descrição:</summary> <p> Nessa Seção foi abordado o editor de texto padrão LINUX - VI (Visual Interface), onde foram demonstrados comandos para criação de arquivo ("vi arquivo.txt"), comandos básicos do modo de comando e mode de inserção ("i", "I", "a", "A", "yy", "dd", entre outros). <p align="center"><img src="./assets/Seção8-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção8-GNU-Linux1.png"></p> <p align="center"><img src="./assets/Seção8-GNU-Linux2.png"></p> <p align="center"><img src="./assets/Seção8-GNU-Linux3.png"></p>
 </p>
 </details>
 
-- [x] Seção 9: Tópico 6: Administração de Usuários e Grupos <details><summary>Descrição:</summary> <p> 
+- [x] Seção 9: Tópico 6: Administração de Usuários e Grupos <details><summary>Descrição:</summary> <p> Nessa seção foram abordados o comandos para administração de usuários e grupos: criar/adicionar usuário ao sistema ("useradd"), remover usuário("userdel"), alterar propriedade de usuário ("usermod"), criar/adicionar grupo ao sistema ("groupadd"), remover grupo ("groupdel"), modificar grupo ("groupmod"), exibir lista de grupos que usuário é membro ("groups"), definir senha de acesso de usuário ("passwd"), arquivos de administração de usuários e grupos (/etc/passwd, /etc/group, /etc/shadow), identificadores UID e GID, criar usuários com "adduser". <p align="center"><img src="./assets/Seção9-GNU-Linux.png"></p> <p align="center"><img src="./assets/Seção9-GNU-Linux1.png"></p> <p align="center"><img src="./assets/Seção9-GNU-Linux2.png"></p> <p align="center"><img src="./assets/Seção9-GNU-Linux3.png"></p> <p align="center"><img src="./assets/Seção9-GNU-Linux4.png"></p>
 </p>
 </details>
 
-- [x] Seção 10: Tópico 7: Gerenciamento de permissões <details><summary>Descrição:</summary> <p> 
+- [x] Seção 10: Tópico 7: Gerenciamento de permissões <details><summary>Descrição:</summary> <p> Nessa seção foi abordado o gerenciamento de permissões: 9 bits definidos pelo file mode - rwx rwx rwx(Read (octal=4), Write (octal=2), Execute(octal=1)), modo literal (u=Usuário Proprietário, g=Grupo Proprietário, o=Outros, a=Todos), comando "chmod" para mudar permissões, modificar grupo proprietário do arquivo ("chgrp"), alterar usuário proprietário de um arquivo ("chown"), UMASK - permite definir a permissão padrão para os novos arquivos e diretórios, permissões especiais (SUID, SGID, Sticky Bit). <p align="center"><img src="./assets/Seção10-GNU-Linux.png"></p>
 </p>
 </details>
 
-- [x] Seção 11: Tópico 8: Gerenciamento de processos <details><summary>Descrição:</summary> <p> 
+- [x] Seção 11: Tópico 8: Gerenciamento de processos <details><summary>Descrição:</summary> <p> Nessa seção foi abordado o gerenciamento de processos: foreground e background, tempo de vida, PID, UID, Parent Process, PPID, exibir de forma dinâmica informações sobre processos ("top"), exibir por padrão apenas processos executados em nosso terminal ("ps"), exibir de forma hierárquica a relação entre todos os processos ("pstree"), sinais de um processo, comandos "kill" e "killall", "bg", "fg", "jobs", "nice", "renice", "nohup". <p align="center"><img src="./assets/Seção11-GNU-Linux.png"></p>
 </p>
 </details>
 
-- [x] Seção 12: Tópico 9: Sistemas de arquivos e particionamento <details><summary>Descrição:</summary> <p> 
+- [x] Seção 12: Tópico 9: Sistemas de arquivos e particionamento <details><summary>Descrição:</summary> <p> Nessa seção foram abordados sistemas de arquivos de particionamento: particionamentos MBR x GPT, comandos para particionamento (“fdisk”, “cfdisk”, “gdisk”, “parted”, “gparted”, “partimage”, (“diskpart”Micro$oft)), ponto de montagem, comandos "mount" e "unmount" para montar ou desmontar um sistema de arquivos. <p align="center"><img src="./assets/Seção12-GNU-Linux.png"></p>
 </p>
 </details>
 
-- [x] Seção 13: Tópico 10: Expressões regulares <details><summary>Descrição:</summary> <p> 
+- [x] Seção 13: Tópico 10: Expressões regulares <details><summary>Descrição:</summary> <p> Nessa Seção foram abordados as Expressões Regulares (REGEX): histórico e introdução, metacaracteres, âncoras (^ $ \b), o ponto ("."), a lista ([ ..... ]), especificar intervalo na lista ([ - ]), classes POSIX, quantificadores (? * + {...}), escape ("\"), operador lógico AND (".*"), operador lógico OR ("|"), o grupo ((...)), o retrovisor (\1 \2 \3 \4.....\9). <p align="center"><img src="./assets/Seção13-GNU-Linux.png"></p>
 </p>
 </details>
 
-- [x] Seção 14: Tópico 11: Introdução ap Shell Script <details><summary>Descrição:</summary> <p> 
+- [x] Seção 14: Tópico 11: Introdução ap Shell Script <details><summary>Descrição:</summary> <p> Nessa seção foi abordada introdução ao Shell Script: Shell - interpretador de comandos linux, Script: programa ou sequência de instruções que serão interpretadas por outro programa de computador, "#!/bin/bash" - início do Shell Script, Shebang = #, criação de um Shell Script, interação com o usuário, documentação do Script, definição de variáveis (=, echo, unset, env), comando "test", programar com "if" (condição), outras opções de condicionais ("FOR", "WHILE", "CASE", "UNTIL"). <p align="center"><img src="./assets/Seção14-GNU-Linux.png"></p>
 </p>
 </details>
 
-- [x] Seção 15: Tópico 12: Gerenciamento de Pacotes <details><summary>Descrição:</summary> <p> 
+- [x] Seção 15: Tópico 12: Gerenciamento de Pacotes <details><summary>Descrição:</summary> <p> Nessa seção foi abordado o gerenciamento de pacotes: APT, YUM, YAST, entre outros, com suas respectivas instalações através de código fonte, pacotes pré-compilados, gerenciadores de pacotes. Ainda, foram abordadas as configurações dos pacotes, tabela referência para instalação, remoção, listagem de pacotes. <p align="center"><img src="./assets/Seção15-GNU-Linux.png"></p> 
 </p>
 </details>
 
-- [x] Seção 16: Tópico 13: Agendamento de tarefas (cron) e Backup <details><summary>Descrição:</summary> <p> 
+- [x] Seção 16: Tópico 13: Agendamento de tarefas (cron) e Backup <details><summary>Descrição:</summary> <p> A última seção abordou sobre o agendamento de tarefas e backup utilizando CRON, CRONTAB: planejamento de backup, mídias e dispositivos de armazenamento, tipos de backup (backup completo, diferencial e incremental), marcadores, demais conceitos. <p align="center"><img src="./assets/Seção16-GNU-Linux.png"></p>
 </p>
 </details>
 
-- [x] Seção 17: Fechamento do curso <details><summary>Descrição:</summary> <p> 
+- [x] Seção 17: Fechamento do curso <details><summary>Descrição:</summary> <p> Finalização do curso, simulado e considerações finais. <p align="center"><img src="./assets/Seção17-GNU-Linux.png"></p>
 </p>
 </details>
 
