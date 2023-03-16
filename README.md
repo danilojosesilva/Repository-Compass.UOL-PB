@@ -14,11 +14,11 @@
 
 <h2 align="center"><b>Danilo José Silva</b></h2>
 
-    36 anos
-    Endereço: Rua Esméria Cândida, 497, Centro, Guaxupé/MG, CEP 37800-000
-    Telefone: (35) 99945-1461
-    E-mail: danylosilva@yahoo.com.br
-    Linkedin: https://www.linkedin.com/in/danilojosesilva/
+<h3> 36 anos
+Endereço: Rua Esméria Cândida, 497, Centro, Guaxupé/MG, CEP 37800-000
+Telefone: (35) 99945-1461
+E-mail: danylosilva@yahoo.com.br
+Linkedin: https://www.linkedin.com/in/danilojosesilva/</h3>
 
 * ### **_Sobre_**:
 
