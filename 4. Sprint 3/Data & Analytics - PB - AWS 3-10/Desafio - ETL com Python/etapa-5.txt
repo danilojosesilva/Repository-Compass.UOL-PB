@@ -1,50 +1,50 @@
-O ator/atriz 'Harrison Ford' teve um faturamento total de 4871.7.
-O ator/atriz 'Samuel L. Jackson' teve um faturamento total de 4772.8.
-O ator/atriz 'Morgan Freeman' teve um faturamento total de 4468.3.
-O ator/atriz 'Tom Hanks' teve um faturamento total de 4340.8.
-O ator/atriz '"Robert Downey Jr."' teve um faturamento total de 3947.3.
-O ator/atriz 'Eddie Murphy' teve um faturamento total de 3810.4.
-O ator/atriz 'Tom Cruise' teve um faturamento total de 3587.2.
-O ator/atriz 'Johnny Depp' teve um faturamento total de 3368.6.
-O ator/atriz 'Michael Caine' teve um faturamento total de 3351.5.
-O ator/atriz 'Scarlett Johansson' teve um faturamento total de 3341.2.
-O ator/atriz 'Gary Oldman' teve um faturamento total de 3294.0.
-O ator/atriz 'Robin Williams' teve um faturamento total de 3279.3.
-O ator/atriz 'Bruce Willis' teve um faturamento total de 3189.4.
-O ator/atriz 'Stellan Skarsgard' teve um faturamento total de 3175.0.
-O ator/atriz 'Anthony Daniels' teve um faturamento total de 3162.9.
-O ator/atriz 'Ian McKellen' teve um faturamento total de 3150.4.
-O ator/atriz 'Will Smith' teve um faturamento total de 3149.1.
-O ator/atriz 'Stanley Tucci' teve um faturamento total de 3123.9.
-O ator/atriz 'Matt Damon' teve um faturamento total de 3107.3.
-O ator/atriz 'Robert DeNiro' teve um faturamento total de 3081.3.
-O ator/atriz 'Cameron Diaz' teve um faturamento total de 3031.7.
-O ator/atriz 'Liam Neeson' teve um faturamento total de 2942.7.
-O ator/atriz 'Andy Serkis' teve um faturamento total de 2890.6.
-O ator/atriz 'Don Cheadle' teve um faturamento total de 2885.4.
-O ator/atriz 'Ben Stiller' teve um faturamento total de 2827.0.
-O ator/atriz 'Helena Bonham Carter' teve um faturamento total de 2822.0.
-O ator/atriz 'Orlando Bloom' teve um faturamento total de 2815.8.
-O ator/atriz 'Woody Harrelson' teve um faturamento total de 2815.8.
-O ator/atriz 'Cate Blanchett' teve um faturamento total de 2802.6.
-O ator/atriz 'Julia Roberts' teve um faturamento total de 2735.3.
-O ator/atriz 'Elizabeth Banks' teve um faturamento total de 2726.3.
-O ator/atriz 'Ralph Fiennes' teve um faturamento total de 2715.3.
-O ator/atriz 'Emma Watson' teve um faturamento total de 2681.9.
-O ator/atriz 'Tommy Lee Jones' teve um faturamento total de 2681.3.
-O ator/atriz 'Brad Pitt' teve um faturamento total de 2680.9.
-O ator/atriz 'Adam Sandler' teve um faturamento total de 2661.0.
-O ator/atriz 'Daniel Radcliffe' teve um faturamento total de 2634.4.
-O ator/atriz 'Jonah Hill' teve um faturamento total de 2605.1.
-O ator/atriz 'Owen Wilson' teve um faturamento total de 2602.3.
-O ator/atriz 'Idris Elba' teve um faturamento total de 2580.6.
-O ator/atriz 'Bradley Cooper' teve um faturamento total de 2557.7.
-O ator/atriz 'Mark Wahlberg' teve um faturamento total de 2549.8.
-O ator/atriz 'Jim Carrey' teve um faturamento total de 2545.2.
-O ator/atriz 'Dustin Hoffman' teve um faturamento total de 2522.1.
-O ator/atriz 'Leonardo DiCaprio' teve um faturamento total de 2518.3.
-O ator/atriz 'Jeremy Renner' teve um faturamento total de 2500.3.
-O ator/atriz 'Philip Seymour Hoffman' teve um faturamento total de 2463.7.
-O ator/atriz 'Sandra Bullock' teve um faturamento total de 2462.6.
-O ator/atriz 'Chris Evans' teve um faturamento total de 2457.8.
-O ator/atriz 'Anne Hathaway' teve um faturamento total de 2416.5.
+Harrison Ford, 4871.7
+Samuel L. Jackson, 4772.8
+Morgan Freeman, 4468.3
+Tom Hanks, 4340.8
+"Robert Downey Jr.", 3947.3
+Eddie Murphy, 3810.4
+Tom Cruise, 3587.2
+Johnny Depp, 3368.6
+Michael Caine, 3351.5
+Scarlett Johansson, 3341.2
+Gary Oldman, 3294.0
+Robin Williams, 3279.3
+Bruce Willis, 3189.4
+Stellan Skarsgard, 3175.0
+Anthony Daniels, 3162.9
+Ian McKellen, 3150.4
+Will Smith, 3149.1
+Stanley Tucci, 3123.9
+Matt Damon, 3107.3
+Robert DeNiro, 3081.3
+Cameron Diaz, 3031.7
+Liam Neeson, 2942.7
+Andy Serkis, 2890.6
+Don Cheadle, 2885.4
+Ben Stiller, 2827.0
+Helena Bonham Carter, 2822.0
+Orlando Bloom, 2815.8
+Woody Harrelson, 2815.8
+Cate Blanchett, 2802.6
+Julia Roberts, 2735.3
+Elizabeth Banks, 2726.3
+Ralph Fiennes, 2715.3
+Emma Watson, 2681.9
+Tommy Lee Jones, 2681.3
+Brad Pitt, 2680.9
+Adam Sandler, 2661.0
+Daniel Radcliffe, 2634.4
+Jonah Hill, 2605.1
+Owen Wilson, 2602.3
+Idris Elba, 2580.6
+Bradley Cooper, 2557.7
+Mark Wahlberg, 2549.8
+Jim Carrey, 2545.2
+Dustin Hoffman, 2522.1
+Leonardo DiCaprio, 2518.3
+Jeremy Renner, 2500.3
+Philip Seymour Hoffman, 2463.7
+Sandra Bullock, 2462.6
+Chris Evans, 2457.8
+Anne Hathaway, 2416.5

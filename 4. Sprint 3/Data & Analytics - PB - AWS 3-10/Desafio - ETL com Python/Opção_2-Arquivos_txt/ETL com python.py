@@ -10,6 +10,7 @@ avg_per_movie = []
 movies = []
 gross = []
 
+
 # Verificado em qual linha está o erro de conversão se str para float
 # index = total_gross.index(' Jr."')
 
@@ -44,6 +45,7 @@ type(avg_per_movie[0])
 type(movies[0])
 type(gross[0])
 
+
 num_movies = [int(n) for n in num_movies]
 total_gross = [float(g) for g in total_gross]
 avg_per_movie = [float(a) for a in avg_per_movie]
@@ -56,7 +58,8 @@ actor_most_movies = actors[idx_max_num_movies]
 
 # escrever resultado no arquivo etapa-1.txt
 with open('etapa-1.txt', 'w') as f:
-    f.write(f"{actor_most_movies}, {max_num_movies}")
+    f.write(f"O ator/atriz com maior numero de filmes foi '{actor_most_movies}'. "
+            f"Ele(a) participou de {max_num_movies} filmes.")
 
 # 2. calcular a média de faturamento bruto por ator
 avg_gross_per_actor = {}
@@ -73,7 +76,7 @@ for actor, avg in avg_gross_per_actor.items():
 # escrever resultado no arquivo etapa-2.txt
 with open('etapa-2.txt', 'w') as f:
     for actor, avg in avg_gross_per_actor.items():
-        f.write(f"{actor}, {avg}\n")
+        f.write(f"A media de faturamento bruto do ator/atriz '{actor}' foi de {avg}.\n")
 
 # 3. encontrar o ator/atriz com a maior média de faturamento por filme
 max_avg_gross_per_movie = max(avg_per_movie)
@@ -82,7 +85,8 @@ actor_max_avg_gross = actors[idx_max_avg_gross_per_movie]
 
 # escrever resultado no arquivo etapa-3.txt
 with open('etapa-3.txt', 'w') as f:
-    f.write(f"{actor_max_avg_gross}, {max_avg_gross_per_movie}")
+    f.write(f"O ator/atriz com maior media de faturamento por filme foi '{actor_max_avg_gross}'. "
+            f"Ele(a) faturou {max_avg_gross_per_movie}.")
 
 # 4. encontrar o(s) filme(s) mais frequente(s)
 freq_movies = {}
@@ -97,7 +101,11 @@ most_freq_movies = [k for k, v in freq_movies.items() if v == max_freq]
 
 # escrever resultado no arquivo etapa-4.txt
 with open('etapa-4.txt', 'w') as f:
-    f.write(f"{most_freq_movies[0]}, {max_freq}")
+    if len(most_freq_movies) == 1:
+        f.write(f"O filme mais frequente foi '{most_freq_movies[0]}'. Ele apareceu {max_freq} vezes.")
+    else:
+        movies_str = ', '.join(most_freq_movies)
+        f.write(f"Os filmes mais frequentes foram '{movies_str}'. Eles apareceram {max_freq} vezes.")
 
 # 5. ordenar a lista de atores pelo faturamento bruto total
 total_gross_per_actor = {}
@@ -112,4 +120,4 @@ sorted_actors = [(k, v) for k, v in sorted(total_gross_per_actor.items(), key=la
 # escrever resultado no arquivo etapa-5.txt
 with open('etapa-5.txt', 'w') as f:
     for actor, gross in sorted_actors:
-        f.write(f"{actor}, {gross}\n")
+        f.write(f"O ator/atriz '{actor}' teve um faturamento total de {gross}.\n")
