@@ -10,6 +10,16 @@ avg_per_movie = []
 movies = []
 gross = []
 
+
+# Verificado em qual linha está o erro de conversão se str para float
+# index = total_gross.index(' Jr."')
+
+# A linha índice 4 que contém o erro de dados
+# lines[4]
+
+# Corrigindo a Linha de índice 4
+lines[4] = '"Robert Downey Jr.",3947.30 ,53,74.50 ,The Avengers,623.40'
+
 # armazenar os dados nas listas correspondentes
 for line in lines:
 
