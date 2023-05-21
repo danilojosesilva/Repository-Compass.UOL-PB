@@ -1,0 +1,10 @@
+SELECT ano, nome, total
+FROM (
+  SELECT ano, nome, total,
+         ROW_NUMBER() OVER (PARTITION BY ano ORDER BY total DESC) AS rank
+  FROM nomes
+  WHERE ano >= 1950
+) ranked
+WHERE rank <= 3
+  AND (ano % 10 = 0)
+ORDER BY ano, rank

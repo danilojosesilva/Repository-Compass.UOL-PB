@@ -1,0 +1,94 @@
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+from pyspark.sql.functions import upper
+from pyspark.sql.functions import count, col
+from awsglue.dynamicframe import DynamicFrame
+
+## @params: [JOB_NAME]
+args = getResolvedOptions(sys.argv,  ['JOB_NAME','S3_INPUT_PATH','S3_TARGET_PATH'])
+
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
+job.init(args['JOB_NAME'], args)
+
+source_file = args['S3_INPUT_PATH']
+target_path = args['S3_TARGET_PATH']
+
+df = glueContext.create_dynamic_frame.from_options(
+    "s3",
+    {
+        "paths": [
+            source_file
+        ]
+},
+"csv",
+{"withHeader": True, "separator":","},
+)
+
+# 1- Imprima o schema do dataframe gerado no passo anterior
+data_frame = df.toDF()
+data_frame.printSchema()
+
+# 2- Escrever o código necessário para alterar a caixa dos valores da coluna nome para
+MAIÚSCULO. 
+
+data_frame = df.toDF()
+data_frame = data_frame.withColumn("nome_upper", upper(data_frame["nome"]))
+data_frame.show()
+
+# 3- Imprimir a contagem de linhas presentes no dataframe.
+count = df.count()
+print("Contagem de linhas:", count)
+
+# 4- Imprimir a contagem de nomes, agrupando os dados do dataframe pelas colunas ano e sexo. Ordene os dados de modo que o ano mais recente apareça como primeiro registro do dataframe.
+data_frame = df.toDF()
+count_by_year_sex = data_frame.groupBy(["ano", "sexo"]).count()
+count_by_year_sex.orderBy("ano", ascending=False).show()
+
+# 5- Apresentar qual foi o nome feminino com mais registros e em que ano ocorreu.
+data_frame = df.toDF()
+
+most_common_female_name = data_frame.filter(data_frame["sexo"] == "F").groupBy("nome", "ano").count().orderBy("count", ascending=False).first()
+print("Nome feminino com mais registros:", most_common_female_name.nome, "em", most_common_female_name.ano)
+
+
+# 6- Apresentar qual foi o nome masculino com mais registros e em que ano ocorreu.
+most_common_male_name = data_frame.filter(data_frame["sexo"] == "M").groupBy("nome", "ano").count().orderBy("count", ascending=False).first()
+print("Nome masculino com mais registros:", most_common_male_name.nome, "em", most_common_male_name.ano)
+
+# 7- Apresentar o total de registros (masculinos e femininos) para cada ano presente no dataframe.
+
+data_frame = df.toDF()
+result = data_frame.groupBy("ano", "sexo").agg(count("*").alias("total_registros"))
+result = result.orderBy("ano")
+result.show()
+
+# 8- Escrever o conteúdo do dataframe com os valores de nome em maiúsculo no S3.
+
+data_frame = df.toDF()
+data_frame = data_frame.withColumn("nome_upper", upper(data_frame["nome"]))
+conversao = DynamicFrame.fromDF(data_frame, glueContext, "conversao" )
+
+# glueContext.write_dynamic_frame.from_options(
+#    frame = conversao , 
+#    ... mudar ali no final!!
+
+
+
+
+
+
+glueContext.write_dynamic_frame.from_options(
+    frame = df ,
+    connection_type = "s3",
+    connection_options = {"path": target_path, "partitionKeys": ["sexo", "ano"]},
+    format = "JSON")
+    
+    
+job.commit()
