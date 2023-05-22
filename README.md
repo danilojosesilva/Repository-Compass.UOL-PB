@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/Compass.UOL-logo.png"></p>
+<p align="center" style="background-color: black"><img src="./assets/Compass.UOL-logo.png"></p>
 
 <p align = "center">
     <img src = "https://img.shields.io/badge/Repository-Compass.Uol_PB-red" alt= "Site">
