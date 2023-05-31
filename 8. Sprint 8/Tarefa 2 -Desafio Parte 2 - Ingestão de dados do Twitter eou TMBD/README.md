@@ -2,7 +2,7 @@
 
 Este repositório contém o código Python de uma função AWS Lambda. Essa função realiza a ingestão de dados de filmes de terror do TMDB (The Movie Database) e armazena os resultados em arquivos JSON no Amazon S3. O código é projetado para processar os filmes em lotes de 100. Ainda, o repositório conta com o projeto de ingestão de dados testado localmente como pode ser observado na pasta "Local Code".
 
-![imagem](assets\Print_1.jpg) 
+<p align="center"><img src="assets\Print_1.jpg"></p> 
 
 ## Funcionalidades
 
@@ -10,7 +10,7 @@ A função realiza as seguintes ações:
 
 1. **Leitura do CSV:** Lê um arquivo CSV chamado `movies.csv` armazenado no Amazon S3. O caminho do arquivo é `s3://data-lake-danilo/Raw/Local/CSV/Movies/2023/05/19/movies.csv`.
 
-![imagem](assets\Print_2.jpg)
+<p align="center"><img src="assets\Print_2.jpg"></p>
 
 2. **Filtro de Filmes de Terror:** Filtra os filmes de terror do CSV e remove os IDs duplicados. Consideramos que a coluna do gênero é chamada "genero" e os filmes de terror são identificados como "horror".
 
@@ -22,11 +22,11 @@ A função realiza as seguintes ações:
 
 6. **Conversão para JSON:** Converte os dados filtrados em formato JSON.
 
-![imagem](assets\Print_3.jpg)
+<p align="center"><img src="assets\Print_3.jpg"></p>
 
 7. **Armazenamento no S3:** Salva os dados em arquivos JSON separados no Amazon S3. Os arquivos são armazenados no seguinte caminho: `s3://data-lake-danilo/Raw/TMDB/JSON/Movies/2023/05/19/`. O formato de nomeação dos arquivos é `movies_tmdb_000.json`, `movies_tmdb_001.json`, etc.
 
-![imagem](assets\Print_5.jpg)
+<p align="center"><img src="assets\Print_5.jpg"></p>
 
 ## Criação do Pacote de Dependências
 
@@ -69,23 +69,23 @@ Antes de implementar a função Lambda, será necessário realizar as seguintes 
 
 3. **Chave de API do TMDB:** Crie uma chave de API no TMDB e substitua pela sua chave de API nas variáveis de ambiente `API_KEY` da função Lambda.
 
-![imagem](assets\Print_6.jpg)
+<p align="center"><img src="assets\Print_6.jpg"></p>
 
 4. **Criação da Função Lambda:** Crie uma função Lambda no AWS Management Console com as seguintes configurações:
    - Nome da função: `tmdb-movies-ingestion`
    - Runtime: Python 3.7
    - Timeout: Recomendado 10 minutos ou ajuste de acordo com suas necessidades.
 
-![imagem](assets\Print_7.jpg)
+<p align="center"><img src="assets\Print_7.jpg"></p>
 
-![imagem](assets\Print_8.jpg)
+<p align="center"><img src="assets\Print_8.jpg"></p>
 
 5. **Criação da Camada Lambda (Layer):** Crie uma camada Lambda para incluir as dependências do Python:
    - Nome da camada: `pandas_requests`
    - Runtime compatível: Python 3.7
    - Faça upload do arquivo ZIP `minha-camada-pandas.zip` para a camada. Certifique-se de que o arquivo ZIP contém as bibliotecas `pandas` e `requests` no diretório `python`.
 
-![imagem](assets\Print_9.jpg)
+<p align="center"><img src="assets\Print_9.jpg"></p>
 
 6. **Associação da Camada à Função Lambda:** Associe a camada `pandas_requests` à função Lambda `lambda_tmdb_ingest`.
 
@@ -95,7 +95,7 @@ Antes de implementar a função Lambda, será necessário realizar as seguintes 
 
 9. **Implantação da Função Lambda:** Salve e implante a função Lambda.
 
-![imagem](assets\Print_4.jpg)
+<p align="center"><img src="assets\Print_4.jpg"></p>
 
 ## Utilização
 
