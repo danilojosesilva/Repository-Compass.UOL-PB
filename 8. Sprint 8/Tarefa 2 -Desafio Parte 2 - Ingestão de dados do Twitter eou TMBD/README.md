@@ -34,25 +34,27 @@ O código desta função Lambda requer a biblioteca pandas, que não está inclu
 
 1. **Criação do Ambiente Virtual:** Primeiro, precisaremos criar um ambiente virtual Python para instalar a biblioteca pandas. Se você não tiver o virtualenv instalado, você pode instalá-lo com o seguinte comando:
    
-        pip install virtualenv
+`pip install virtualenv`
 
 Em seguida, crie um novo ambiente virtual Python 3.7 e ative-o com estes comandos:
 
-       virtualenv -p python3.7 venv
-       source venv/bin/activate
+`virtualenv -p python3.7 venv`
+
+`source venv/bin/activate`
 
 
 2. **Instalação da Biblioteca Pandas:** Com o ambiente virtual ativado, instale a biblioteca pandas com o seguinte comando:
 
-        pip install pandas
+`pip install pandas`
 
 
 3. **Criação do Pacote de Dependências:** Agora, precisamos criar um pacote de dependências com a biblioteca pandas. No diretório raiz do ambiente virtual, você encontrará uma pasta chamada "lib". Dentro dela, haverá outra pasta chamada "python3.7" (ou similar, dependendo da versão do Python que você usou). Dentro desta pasta, você encontrará uma pasta chamada "site-packages", que contém todas as bibliotecas instaladas no ambiente virtual.
 
 Navegue até a pasta "site-packages" e crie um arquivo ZIP com todas as bibliotecas nela contidas. Você pode fazer isso com o seguinte comando:
 
-       cd venv/lib/python3.7/site-packages
-       zip -r9 ${OLDPWD}/minha-camada-pandas.zip .
+`cd venv/lib/python3.7/site-packages`
+
+`zip -r9 ${OLDPWD}/minha-camada-pandas.zip .`
 
 
 Agora você tem um pacote ZIP chamado `minha-camada-pandas.zip` que contém a biblioteca pandas e todas as suas dependências. Você pode fazer o upload deste pacote para a AWS Lambda para criar uma camada de dependências.
