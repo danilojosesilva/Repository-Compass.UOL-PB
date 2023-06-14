@@ -24,7 +24,7 @@ A função realiza as seguintes ações:
 
 <p align="center"><img src="assets\Print_3.jpg"></p>
 
-7. **Armazenamento no S3:** Salva os dados em arquivos JSON separados no Amazon S3. Os arquivos são armazenados no seguinte caminho: `s3://data-lake-danilo/Raw/TMDB/JSON/Movies/2023/05/19/`. O formato de nomeação dos arquivos é `movies_tmdb_000.json`, `movies_tmdb_001.json`, etc.
+7. **Armazenamento no S3:** Salva os dados em arquivos JSON separados no Amazon S3. Os arquivos são armazenados no seguinte caminho: `s3://data-lake-danilo/Raw/TMDB/JSON/2023/06/14/`. O formato de nomeação dos arquivos é `movies_tmdb__000.json`, `movies_tmdb__001.json`, etc.
 
 <p align="center"><img src="assets\Print_5.jpg"></p>
 
