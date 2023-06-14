@@ -1,4 +1,3 @@
-# Importação de pacotes necessários
 import os
 import time
 import json
@@ -13,7 +12,7 @@ def obter_dados_filme(filme_id, api_key):
     response = requests.get(url)
     data = response.json()
     if response.status_code == 200:
-        return {filme_id: {'popularidade': data['popularity'], 'receita': data['revenue']}}
+        return {"id": filme_id, "popularidade": data['popularity'], "receita": data['revenue']}
     return None
 
 def lambda_handler(event, context):
