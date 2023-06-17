@@ -4,6 +4,7 @@ import json
 import boto3
 import requests
 import pandas as pd
+import numpy as np
 from datetime import datetime
 
 def obter_dados_filme(filme_id, api_key):
@@ -12,8 +13,24 @@ def obter_dados_filme(filme_id, api_key):
     response = requests.get(url)
     data = response.json()
     if response.status_code == 200:
-        return {"id": filme_id, "popularidade": data['popularity'], "receita": data['revenue']}
+        studio = data['production_companies'][0]['name'] if data['production_companies'] else None
+        return {"id": filme_id, "popularidade": data['popularity'], "receita": data['revenue'], "estudio": studio, "orcamento": data['budget']}
     return None
+
+def processar_lote_filmes(lote_ids, api_key, bucket_name, storage_layer, data_source, data_format, current_date):
+    filmes_dados = []
+    for filme_id in lote_ids:
+        filme_dado = obter_dados_filme(filme_id, api_key)
+        if filme_dado is not None:
+            filmes_dados.append(filme_dado)
+        time.sleep(0.02)  # Para evitar limitação da API
+
+    # Salvar no S3
+    data_specification = f'movies_tmdb_{str(lote_ids[0]).zfill(3)}-{str(lote_ids[-1]).zfill(3)}'
+    file_name = f'{data_specification}.json'
+    dados_json = json.dumps(filmes_dados, ensure_ascii=False)
+    s3 = boto3.client('s3')
+    s3.put_object(Body=dados_json, Bucket=bucket_name, Key=f'{storage_layer}/{data_source}/{data_format}/{current_date}/{data_specification}/{file_name}')
 
 def lambda_handler(event, context):
     # Definição de variáveis de configuração
@@ -28,7 +45,6 @@ def lambda_handler(event, context):
     data_format = 'JSON'
     current_date = datetime.now().strftime('%Y/%m/%d')
     selected_columns = ['id', 'genero']
-    generos_filtrados = ['Horror']
     chunk_size = 100  
 
     # Iniciar cliente S3 e obter objeto CSV
@@ -37,26 +53,33 @@ def lambda_handler(event, context):
 
     # Filtrar DataFrame por gênero e criar chunks de filmes
     df = pd.read_csv(response['Body'], delimiter='|', usecols=selected_columns, dtype={'id': str})
-    df_filtrado = df[df['genero'].isin(generos_filtrados)]
-    ids_filmes_filtrados = df_filtrado['id'].unique()
-    df_chunks = [ids_filmes_filtrados[i:i+chunk_size] for i in range(0, len(ids_filmes_filtrados), chunk_size)]
+    df_filtrado = df[df['genero'].str.contains('Horror', na=False)]  # Filtrar por filmes que contêm 'Horror' em seu campo de gênero
+    ids_filmes_filtrados = df_filtrado['id'].unique()  # Remover IDs repetidos
 
-    # Iterar sobre cada chunk e obter dados do filme
-    for i, lote in enumerate(df_chunks):
-        filmes_dados = []
-        for filme_id in lote:
-            filme_dado = obter_dados_filme(filme_id, api_key)
-            if filme_dado is not None:
-                filmes_dados.append(filme_dado)
-            time.sleep(0.02)  # Para evitar limitação da API
+    # Dividir IDs dos filmes em lotes menores
+    lote_ids = np.array_split(ids_filmes_filtrados, np.ceil(len(ids_filmes_filtrados) / chunk_size))
 
-        # Salvar no S3
-        data_specification = f'movies_tmdb_'
-        file_name = f'{data_specification}_{str(i).zfill(3)}.json'
-        dados_json = json.dumps(filmes_dados, ensure_ascii=False)
-        s3.put_object(Body=dados_json, Bucket=bucket_name, Key=f'{storage_layer}/{data_source}/{data_format}/{current_date}/{data_specification}/{file_name}')
+    # Invocar assincronamente novas execuções do Lambda para processar cada lote de IDs
+    lambda_client = boto3.client('lambda')
+    lambda_function_name = context.function_name
+
+    for lote in lote_ids:
+        payload = {
+            'lote_ids': lote.tolist(),
+            'api_key': api_key,
+            'bucket_name': bucket_name,
+            'storage_layer': storage_layer,
+            'data_source': data_source,
+            'data_format': data_format,
+            'current_date': current_date
+        }
+        lambda_client.invoke(
+            FunctionName=lambda_function_name,
+            InvocationType='Event',  # Invocação assíncrona
+            Payload=json.dumps(payload)
+        )
 
     return {
         'statusCode': 200,
-        'body': 'Dados salvos no AWS S3 com sucesso!'
+        'body': 'Processamento iniciado!'
     }
