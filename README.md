@@ -8,7 +8,7 @@
 
 # **Programa de Bolsas - Data & Analytics - Compass.UOL**
 
-## 📺 **Apresentação do Desenvolvedor**:
+<h1 style="color:yellow">Apresentação do Desenvolvedor:</h1>
 
 <p align="center"><img style="width: 350px; height: 350px" src="./assets/Profile.jpg"></p>
 
@@ -38,9 +38,9 @@ Linkedin: https://www.linkedin.com/in/danilojosesilva/
     * Ler livros e notícias.
     * Entretenimento: Filmes, séries e beber com os amigos.
 
-## **🛠 Conteúdo Programático:**
+<h1 style="color:yellow">Conteúdo Programático:</h1>
 
-### **0. Cultura Ágil e Segurança:**
+<h2 style="color:orange">0. Cultura Ágil e Segurança:</h2>
 
 #### **I - Segurança em Aplicações WEB:**
 
@@ -166,7 +166,7 @@ O curso também aborda tópicos avançados, permitindo que os participantes apro
 </p>
 </details>
 
-## **1. Sprint 1:**
+<h2 style="color:orange">1. Sprint 1:</h2>
 
 #### **I - Git e GitHub do básico ao avançado (c/ gist e GitHub Pages):**
 
@@ -326,7 +326,7 @@ Em resumo, o curso "Administração de Sistemas GNU/Linux: Fundamentos e Prátic
 </p>
 </details>
 
-### **2. Sprint 2:**
+<h2 style="color:orange">2. Sprint 2:</h2>
 
 #### **I - SQL para Análise de Dados: Do básico ao avançado:**
 
@@ -464,7 +464,7 @@ Em resumo, o curso "Big Data Fundamentos 3.0" oferece um conhecimento abrangente
 </p>
 </details>
 
-### **3. Sprint 3:**
+<h2 style="color:orange">3. Sprint 3:</h2>
 
 #### **I - Programação em Python do básico ao avançado:**
 
@@ -597,7 +597,7 @@ Os tópicos abordados incluem variáveis e tipos de dados, estruturas lógicas e
 </p>
 </details>
 
-### **4. Sprint 4:**
+<h2 style="color:orange">4. Sprint 4:</h2>
 
 #### **I - Programação funcional: O que é?:**
 
@@ -747,7 +747,7 @@ Um destaque do curso é o uso do Python como ferramenta principal para a anális
 </p>
 </details>
 
-### **5. Sprint 5:**
+<h2 style="color:orange">5. Sprint 5:</h2>
 
 #### **I - AWS Skill Builder:**
 
@@ -798,7 +798,7 @@ Em resumo, os cursos AWS Skill Builder oferecem uma ampla variedade de treinamen
 </p>
 </details>
 
-### **6. Sprint 6:**
+<h2 style="color:orange">6. Sprint 6:</h2>
 
 #### **I - AWS Skill Builder/Partner:**
 
@@ -901,7 +901,7 @@ Esses cursos fornecem uma base sólida para profissionais interessados em aprimo
 </p>
 </details>
 
-### **7. Sprint 7:**
+<h2 style="color:orange">7. Sprint 7:</h2>
 
 #### **I - Learn By Example: Hadoop, MapReduce for Big Data problems:**
 
@@ -1009,7 +1009,7 @@ Outros tópicos importantes incluem o processamento de dados em tempo real com S
 </p>
 </details>
 
-### **8. Sprint 8:**
+<h2 style="color:orange">8. Sprint 8:</h2>
 
 #### **Data & Analytics - PB - AWS 8/10:**
 
@@ -1019,7 +1019,7 @@ Outros tópicos importantes incluem o processamento de dados em tempo real com S
 </p>
 </details>
 
-### **9. Sprint 9:**
+<h2 style="color:orange">9. Sprint 9:</h2>
 
 #### **Data & Analytics - PB - AWS 9/10:**
 
@@ -1029,7 +1029,7 @@ Outros tópicos importantes incluem o processamento de dados em tempo real com S
 </p>
 </details>
 
-### **10. Sprint 10:**
+<h2 style="color:orange">10. Sprint 10:</h2>
 
 #### **I - Complete Introduction to AWS QuickSight [2023 Edition]:**
 
