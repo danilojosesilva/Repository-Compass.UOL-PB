@@ -72,24 +72,19 @@ Cada módulo do curso é acompanhado por exercícios práticos e laboratórios, 
 </p>
 </details>
 
-- [x] Seção 3: Teste de Vulnerabilidade e Injeções Diversas <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 3: Teste de Vulnerabilidade e Injeções Diversas <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 4: Transporte inseguro e mecanismos de recuperação de senhas vulneráveis <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 4: Transporte inseguro e mecanismos de recuperação de senhas vulneráveis <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Métodos de descoberta automática de vulnerabilidades <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 5: Métodos de descoberta automática de vulnerabilidades <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: Métodos para proteção <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: Métodos para proteção <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Conclusão do Curso <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 7: Conclusão do Curso <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **II - Métodos ágeis de A a Z: o curso completo:**
@@ -322,8 +317,7 @@ Em resumo, o curso "Administração de Sistemas GNU/Linux: Fundamentos e Prátic
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">2. Sprint 2:</h2>
@@ -348,55 +342,43 @@ Em resumo, o curso "SQL para Análise de Dados: Do básico ao avançado" oferece
 
 #### **Seções:**
 
-- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: Configuração do ambiente de trabalho <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: Configuração do ambiente de trabalho <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: Comandos Básicos <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: Comandos Básicos <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: Operadores <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: Operadores <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Funções Agregadas <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 5: Funções Agregadas <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: Joins <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: Joins <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Unions <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 7: Unions <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 8: Subqueries <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 8: Subqueries <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 9: Tratamento de Dados <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 9: Tratamento de Dados <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 10: Manipulação de Tabelas <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 10: Manipulação de Tabelas <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 11: Projeto 1 - Dashboard de acompanhamento de vendas <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 11: Projeto 1 - Dashboard de acompanhamento de vendas <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 12: Análise de perfil dos clientes <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 12: Análise de perfil dos clientes <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 13: Encerramento <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 13: Encerramento <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **II - Big Data Fundamentos 3.0:**
@@ -417,51 +399,41 @@ Em resumo, o curso "Big Data Fundamentos 3.0" oferece um conhecimento abrangente
 
 #### **Seções:**
 
-- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: O que é Big Data? <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: O que é Big Data? <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: Sistema de Armazenamento de Dados <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: Sistema de Armazenamento de Dados <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: Armazenamento e Processamento Paralelo <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: Armazenamento e Processamento Paralelo <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Cloud Computing <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 5: Cloud Computing <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: MLOps e DataOps <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: MLOps e DataOps <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Dados como Serviço <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 7: Dados como Serviço <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 8: ETL - Extração, Transformação e Carga de Dados <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 8: ETL - Extração, Transformação e Carga de Dados <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 9: Como Iniciar um Projeto de Big Data? <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 9: Como Iniciar um Projeto de Big Data? <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 10: Avaliação e Certificado de Conclusão <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 10: Avaliação e Certificado de Conclusão <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **III - Data & Analytics - PB - AWS 2/10:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">3. Sprint 3:</h2>
@@ -482,119 +454,92 @@ Os tópicos abordados incluem variáveis e tipos de dados, estruturas lógicas e
 
 #### **Seções:**
 
-- [x] Seção 1: Apresentação <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Apresentação <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: Preparando o ambiente <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: Preparando o ambiente <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: Introdução à linguagem Python <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: Introdução à linguagem Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: Variáveis e Tipos de Dados em Python <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: Variáveis e Tipos de Dados em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Estrutura Lógicas e Condicionais em Python <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 5: Estrutura Lógicas e Condicionais em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: Estruturas de Repetição em Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: Estruturas de Repetição em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Coleções Python <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 7: Coleções Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 8: Funções em Python <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 8: Funções em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 9: Comprehensions em Python <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 9: Comprehensions em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 10: Expressões Lambdas e Funções Integradas <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 10: Expressões Lambdas e Funções Integradas <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 11: Debugando e Tratando erros <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 11: Debugando e Tratando erros <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 12: Trabalhando com Módulos Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 12: Trabalhando com Módulos Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 13: Leitura e Escrita em Arquivos <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 13: Leitura e Escrita em Arquivos <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 14: Iteradores e Geradores Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 14: Iteradores e Geradores Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 15: Decoradores em Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 15: Decoradores em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 16: Orientação a Objetos com Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 16: Orientação a Objetos com Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 17: Herança e Polimorfismo <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 17: Herança e Polimorfismo <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 18: Manipulando Arquivos CSV e JSON <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 18: Manipulando Arquivos CSV e JSON <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 19: Trabalhando com Data e Hora em Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 19: Trabalhando com Data e Hora em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 20: Testes com Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 20: Testes com Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 21: Gerenciamento de Memória em Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 21: Gerenciamento de Memória em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 22: Checagem de tipos em Python <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 22: Checagem de tipos em Python <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 23: Novidades do Python 3.8 <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 23: Novidades do Python 3.8 <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 24: Projeto Python 1 - Game <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 24: Projeto Python 1 - Game <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 25: Projeto Python 2 - Mercado <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 25: Projeto Python 2 - Mercado <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 26: Projeto Python 3 - Banco <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 26: Projeto Python 3 - Banco <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 27: Encerramento <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 27: Encerramento <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **II - Data & Analytics - PB - AWS 3/10:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">4. Sprint 4:</h2>
@@ -641,47 +586,37 @@ Em seguida, o curso explora o Kubernetes, a ferramenta mais amplamente utilizada
 
 #### **Seções:**
 
-- [x] Seção 1: Introduction <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Introduction <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: Trabalhando com Containers <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: Trabalhando com Containers <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: Criando Imagens e Avançando em Containers <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: Criando Imagens e Avançando em Containers <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: Introduzindo volumes aos nossos containers <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: Introduzindo volumes aos nossos containers <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Conectando containers com Networks <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 5: Conectando containers com Networks <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: Introdução ao YAML <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: Introdução ao YAML <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Gerenciando múltiplos containers com Docker Compose <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 7: Gerenciando múltiplos containers com Docker Compose <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 8: Docker Swarm para orquestração <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 8: Docker Swarm para orquestração <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 9: Orquestração com Kubernetes <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 9: Orquestração com Kubernetes <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 10: Comandos básicos de terminal <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 10: Comandos básicos de terminal <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 11: Conclusão e próximos passos <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 11: Conclusão e próximos passos <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **III - Estatística Descritiva com Python:**
@@ -704,47 +639,38 @@ Um destaque do curso é o uso do Python como ferramenta principal para a anális
 
 #### **Seções:**
 
-- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: Python - Visão geral <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: Python - Visão geral <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: Fundamentos da Estatística <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: Fundamentos da Estatística <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: Representações Gráficas <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: Representações Gráficas <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Medidas de tendência Central (MTC) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 5: Medidas de tendência Central (MTC) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: Medidas de Dispersão (MD) <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: Medidas de Dispersão (MD) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Medidas de Assimetria (MA) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 7: Medidas de Assimetria (MA) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 8: Aplicações em Data Science <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 8: Aplicações em Data Science <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 9: Conteúdo Extra <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 9: Conteúdo Extra <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **IV - Data & Analytics - PB - AWS 4/10:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">5. Sprint 5:</h2>
@@ -771,31 +697,26 @@ Em resumo, os cursos AWS Skill Builder oferecem uma ampla variedade de treinamen
 
 #### **Cursos:**
 
-- [x] AWS Partner: Sales Accreditation (Business) (Portuguese) <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] AWS Partner: Sales Accreditation (Business) (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Cloud Quest: Cloud Practitioner <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Cloud Quest: Cloud Practitioner <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Partner: Accreditation (Technical) (Portuguese) <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] AWS Partner: Accreditation (Technical) (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] AWS Partner: Cloud Economics Accreditation (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Partner: Cloud Economics Accreditation (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Exam Prep: AWS Certified Cloud Practitioner (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Exam Prep: AWS Certified Cloud Practitioner (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **II - Data & Analytics - PB - AWS 5/10:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">6. Sprint 6:</h2>
@@ -842,63 +763,50 @@ Esses cursos fornecem uma base sólida para profissionais interessados em aprimo
 
 #### **Cursos:**
 
-- [x] AWS Skill Builder - Data Analytics Fundamentals (Portuguese) <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] AWS Skill Builder - Data Analytics Fundamentals (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Partner: Data Analytics on AWS (Business) (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Partner: Data Analytics on AWS (Business) (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Introduction to Amazon Kinesis Streams <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] AWS Skill Builder - Introduction to Amazon Kinesis Streams <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] AWS Skill Builder - Introduction to Amazon Kinesis Analytics <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Introduction to Amazon Kinesis Analytics <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Introduction to Amazon Athena (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Introduction to Amazon Athena (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Introduction to AWS IoT Analytics <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Introduction to AWS IoT Analytics <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Getting Started with Amazon Redshift <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Getting Started with Amazon Redshift <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Serverless Analytics (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Serverless Analytics (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] AWS Skill Builder - Why Analytics for Games (Portuguese) <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] AWS Skill Builder - Why Analytics for Games (Portuguese) <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **II - Data & Analytics - PB - AWS 6/10:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">7. Sprint 7:</h2>
@@ -923,19 +831,16 @@ O curso também cobre os conceitos básicos do MapReduce, como Mappers, Reducers
 
 #### **Seções:**
 
-- [x] Seção 1: Introduction <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Introduction <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: Why is Big Data a Big Deal <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: Why is Big Data a Big Deal <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: Installing Hadoop in a Local Environment <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: Installing Hadoop in a Local Environment <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: The Map Reduce "Hello World" <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: The Map Reduce "Hello World" <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **II - Formação Spark com Pyspark : o Curso Completo:**
@@ -954,59 +859,47 @@ Outros tópicos importantes incluem o processamento de dados em tempo real com S
 
 #### **Seções:**
 
-- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Introdução <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: Instalação e Primeiros Passos <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: Instalação e Primeiros Passos <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: DataFrames e RDDs <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: DataFrames e RDDs <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: Spark SQL <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: Spark SQL <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Outras Fontes de Dados <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 5: Outras Fontes de Dados <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: Criando Aplicações <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: Criando Aplicações <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Machine Learning com Spark <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 7: Machine Learning com Spark <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 8: Spark Structured Streaming <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 8: Spark Structured Streaming <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 9: Otimização <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 9: Otimização <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 10: Outros Aspectos <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 10: Outros Aspectos <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 11: Construindo um Cluster <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 11: Construindo um Cluster <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 12: Aula Bônus <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 12: Aula Bônus <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **III - Data & Analytics - PB - AWS 7/10:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">8. Sprint 8:</h2>
@@ -1015,8 +908,7 @@ Outros tópicos importantes incluem o processamento de dados em tempo real com S
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">9. Sprint 9:</h2>
@@ -1025,8 +917,7 @@ Outros tópicos importantes incluem o processamento de dados em tempo real com S
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <h2 style="color:orange">10. Sprint 10:</h2>
@@ -1051,75 +942,60 @@ Por fim, o curso explora o compartilhamento de relatórios e dashboards criados 
 
 #### **Seções:**
 
-- [x] Seção 1: Introduction <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 1: Introduction <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 2: Tables <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 2: Tables <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 3: Pivot Tables and KPIs <details><summary>Descrição:</summary> <p> Preenchimento genérico sugerido, descrevendo o tópico conforme abordado no conteúdo do curso ou da sprint. Inclua aqui detalhes relevantes sobre o que foi aprendido, ferramentas utilizadas, e os objetivos alcançados.</p> 
+- [x] Seção 3: Pivot Tables and KPIs <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p> 
 </details>
 
-- [x] Seção 4: Tables and Calculations <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 4: Tables and Calculations <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 5: Filters <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 5: Filters <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 6: Controls <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 6: Controls <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 7: Graph Visualizations <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 7: Graph Visualizations <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 8: Dashboards <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 8: Dashboards <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 9: Calculated Columns <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 9: Calculated Columns <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 10: Measures <details><summary>Descrição:</summary> <p>  
-</p>
+- [x] Seção 10: Measures <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 11: Relationships <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 11: Relationships <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 12: Data Preparation <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 12: Data Preparation <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 13: Machine Learning Insights <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 13: Machine Learning Insights <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
-- [x] Seção 14: Course Conclusion <details><summary>Descrição:</summary> <p> 
-</p>
+- [x] Seção 14: Course Conclusion <details><summary>Descrição:</summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **II - Workshop de QuickSight para Autores:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 #### **III - Data & Analytics - PB - AWS 10/10:**
 
 #### **Descrição:**
 
-<details><summary></summary> <p> 
-</p>
+<details><summary></summary> <p> Durante esta seção, desenvolvi habilidades práticas e teóricas relacionadas ao tema abordado. O aprendizado incluiu conceitos fundamentais, ferramentas práticas e aplicação em projetos simulados, consolidando conhecimentos aplicáveis em cenários reais. </p>
 </details>
 
 <p align = "center">
